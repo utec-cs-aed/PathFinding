@@ -20,7 +20,8 @@ Implementar los algoritmos de búsqueda en grafos y aplicarlo al problema de Pat
   * Movimiento en vertical: 10
   * Movimiento en diagonal: 10
 - Implementar dos heurísticas: distancia manhattan y distancia euclidiana
-   ![image](https://github.com/utec-cs-aed/PathFinding/assets/48141762/5e1bb1bf-5c9b-481e-b7fb-8315638d23b0)
+
+![image](https://github.com/utec-cs-aed/PathFinding/assets/48141762/5e1bb1bf-5c9b-481e-b7fb-8315638d23b0)
 
 **GUI**:
 - Visualizar la ejecución del algoritmo de manera interactiva en consola. 
@@ -30,7 +31,7 @@ Implementar los algoritmos de búsqueda en grafos y aplicarlo al problema de Pat
     * WxWidgets [https://www.wxwidgets.org/]
     * Visual Studio C++ [https://visualstudio.microsoft.com/es/vs/features/cplusplus/]
     * C++ Builder [https://www.embarcadero.com/es/products/cbuilder]
-- Imágen de Referencia
+
 ![image](https://github.com/utec-cs-aed/PathFinding/assets/48141762/0836d9ad-ca21-4382-b515-9feb4e467023)
 
 

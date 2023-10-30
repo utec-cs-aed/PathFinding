@@ -6,8 +6,7 @@
 > ---
 
 ## Enunciado
-Implementar los algoritmos de búsqueda en grafos y aplicarlo al problema de PathFinding de manera visual.
-**Algoritmo**:
+Implementar los siguientes algoritmos de búsqueda en grafos y aplicarlo al problema de PathFinding de manera visual.
 - Dijkstra
 - A*
 - Greedy BSF (Opcional, +0.5 examen final)

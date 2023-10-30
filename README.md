@@ -17,7 +17,7 @@ Implementar los siguientes algoritmos de búsqueda en grafos y aplicarlo al prob
 - Considerar como costo de movimiento:
   * Movimiento en horizontal: 10
   * Movimiento en vertical: 10
-  * Movimiento en diagonal: 10
+  * Movimiento en diagonal: 14
 - Implementar dos heurísticas: distancia manhattan y distancia euclidiana
 
 ![image](https://github.com/utec-cs-aed/PathFinding/assets/48141762/48c513ba-4a34-4f42-874e-a32a1e50cc72)

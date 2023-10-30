@@ -20,7 +20,8 @@ Implementar los siguientes algoritmos de búsqueda en grafos y aplicarlo al prob
   * Movimiento en diagonal: 10
 - Implementar dos heurísticas: distancia manhattan y distancia euclidiana
 
-![image](https://github.com/utec-cs-aed/PathFinding/assets/48141762/5e1bb1bf-5c9b-481e-b7fb-8315638d23b0)
+![image](https://github.com/utec-cs-aed/PathFinding/assets/48141762/48c513ba-4a34-4f42-874e-a32a1e50cc72)
+
 
 **Visualización**:
 - Visualizar la ejecución del algoritmo de manera interactiva en consola. 

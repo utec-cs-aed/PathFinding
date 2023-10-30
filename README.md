@@ -12,7 +12,7 @@ Implementar los algoritmos de búsqueda en grafos y aplicarlo al problema de Pat
 - A*
 - Greedy BSF (Opcional, +0.5 examen final)
 
-**Representación**:
+**Representación del Grafo**:
 - Cada celda representa un vertice del grafo
 - Los vertices adyacentes son los vecinos en vertical (2), horizontal (2) y diagonal (4). Como máximo 8 vertices adyacentes.
 - Considerar como costo de movimiento:
@@ -23,7 +23,7 @@ Implementar los algoritmos de búsqueda en grafos y aplicarlo al problema de Pat
 
 ![image](https://github.com/utec-cs-aed/PathFinding/assets/48141762/5e1bb1bf-5c9b-481e-b7fb-8315638d23b0)
 
-**GUI**:
+**Visualización**:
 - Visualizar la ejecución del algoritmo de manera interactiva en consola. 
 - Pueden usar interfaz gráfica de usuario (GUI) con cualquier libreria gráfica (Opcional, +1 examen final):
     * SFML [https://www.sfml-dev.org/]
@@ -34,6 +34,7 @@ Implementar los algoritmos de búsqueda en grafos y aplicarlo al problema de Pat
 
 ![image](https://github.com/utec-cs-aed/PathFinding/assets/48141762/0836d9ad-ca21-4382-b515-9feb4e467023)
 
+> **Nota: el código debe ser original, si se evidencia copia completa o parcial, copia exacta o estructural, la nota del ejercicio será de 0 y se penaliza con -10 puntos en evaluación contínua.** 
 
 
 

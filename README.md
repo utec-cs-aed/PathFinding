@@ -11,7 +11,9 @@ Implementar **eficientemente** los siguientes algoritmos de búsqueda en grafos 
 - A*
 - Greedy BSF (Opcional, +0.5 examen final)
 
-> **Nota:** El código debe ser original, si se evidencia copia completa, copia parcial o copia estructural, la nota del ejercicio será de 0 y se penaliza con -10 puntos en evaluación contínua.
+> **Nota:**
+> - El código debe ser original, si se evidencia copia completa, copia parcial o copia estructural, la nota del ejercicio será de 0 y se penaliza con -10 puntos en evaluación contínua.
+> - Deben usar sus propios contenedores. 
 
 
 **Representación del Grafo**:

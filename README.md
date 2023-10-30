@@ -11,6 +11,9 @@ Implementar **eficientemente** los siguientes algoritmos de búsqueda en grafos 
 - A*
 - Greedy BSF (Opcional, +0.5 examen final)
 
+> **Nota:** El código debe ser original, si se evidencia copia completa, copia parcial o copia estructural, la nota del ejercicio será de 0 y se penaliza con -10 puntos en evaluación contínua.
+
+
 **Representación del Grafo**:
 - Cada celda representa un vertice del grafo
 - Los vertices adyacentes son los vecinos en vertical (2), horizontal (2) y diagonal (4). Como máximo 8 vertices adyacentes.
@@ -33,8 +36,5 @@ Implementar **eficientemente** los siguientes algoritmos de búsqueda en grafos 
 
 ![image](https://github.com/utec-cs-aed/PathFinding/assets/48141762/0836d9ad-ca21-4382-b515-9feb4e467023)
 
-<h3>
-Nota: el código debe ser original, si se evidencia copia completa, copia parcial o copia estructural, la nota del ejercicio será de 0 y se penaliza con -10 puntos en evaluación contínua.
-</h3>
 
 

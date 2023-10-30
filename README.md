@@ -15,8 +15,7 @@ Implementar los siguientes algoritmos de búsqueda en grafos y aplicarlo al prob
 - Cada celda representa un vertice del grafo
 - Los vertices adyacentes son los vecinos en vertical (2), horizontal (2) y diagonal (4). Como máximo 8 vertices adyacentes.
 - Considerar como costo de movimiento:
-  * Movimiento en horizontal: 10
-  * Movimiento en vertical: 10
+  * Movimiento en horizontal y vertical: 10
   * Movimiento en diagonal: 14
 - Implementar dos heurísticas: distancia manhattan y distancia euclidiana
 

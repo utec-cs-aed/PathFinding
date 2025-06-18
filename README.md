@@ -35,7 +35,7 @@ Implementar **eficientemente** los siguientes algoritmos de búsqueda en grafos 
     * [WxWidgets](https://www.wxwidgets.org/)
     * [Visual Studio C++](https://visualstudio.microsoft.com/es/vs/features/cplusplus/)
     * [C++ Builder](https://www.embarcadero.com/es/products/cbuilder)
- - **Debe realizar un pequeño video (5 min) mostrando la funcionalidad visual de los algoritmos de pathfinding.**
+ - **Debe realizar un pequeño video (5 min) mostrando la funcionalidad visual de cada algoritmo**
 
 ![image](https://github.com/utec-cs-aed/PathFinding/assets/48141762/0836d9ad-ca21-4382-b515-9feb4e467023)
 

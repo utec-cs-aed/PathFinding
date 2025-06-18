@@ -9,10 +9,10 @@
 Implementar **eficientemente** los siguientes algoritmos de búsqueda en grafos y aplicarlo al problema de PathFinding de manera visual.
 - Dijkstra
 - A*
-- Greedy BSF (Opcional, +0.5 examen final)
+- Greedy BSF
 
 > **Nota:**
-> - El código debe ser original, si se evidencia copia completa, copia parcial o copia estructural, la nota del ejercicio será de 0 y se penaliza con -10 puntos en evaluación contínua.
+> - El código debe ser original, si se evidencia copia completa, copia parcial o copia estructural, la nota del ejercicio será de 0 y se penaliza con -5 puntos en el promedio de la evaluación contínua.
 > - Deben usar sus propios contenedores. 
 
 
@@ -35,6 +35,7 @@ Implementar **eficientemente** los siguientes algoritmos de búsqueda en grafos 
     * [WxWidgets](https://www.wxwidgets.org/)
     * [Visual Studio C++](https://visualstudio.microsoft.com/es/vs/features/cplusplus/)
     * [C++ Builder](https://www.embarcadero.com/es/products/cbuilder)
+ - **Debe realizar un pequeño video (5 min) mostrando la funcionalidad visual de los algoritmos de pathfinding.**
 
 ![image](https://github.com/utec-cs-aed/PathFinding/assets/48141762/0836d9ad-ca21-4382-b515-9feb4e467023)
 
